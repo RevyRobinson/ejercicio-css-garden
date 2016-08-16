@@ -1,0 +1,115 @@
+#css-zen-garden{
+  font-size: 15px;
+  font-family:Verdana;
+  background-color: #F2E0F7;
+  padding:20px;
+  text-align:justify;
+}
+ p{
+   padding:5px;
+}
+/*links decoration*/
+ a {
+  text-decoration:none;
+  color: #8000FF; 
+}
+ a:hover {
+  text-decoration:none;
+  color: #8000FF; 
+  letter-spacing: 3px;
+  transition: all 0.5s ease;
+}
+ a {
+  text-decoration:none;
+  color: #8000FF;
+  transition: all 0.5s ease;
+}/*end*/
+.page-wrapper{
+  margin-left: 20%;
+  margin-right: 20%;
+  width:60%;
+}
+.intro h1{
+  text-align:center;
+  background-color:#BE81F7;
+  border-bottom:2px solid #8000FF;
+  border-radius:5px  5px 0px  0px;
+}
+.intro h2 {
+  text-align: center;
+  letter-spacing: 2px;
+  color: #BE81F7;
+}
+.preamble h3{
+  text-align:center;
+  background-color:#BE81F7;
+  border-bottom:2px solid #8000FF;
+  border-radius:5px  5px 0px  0px;
+}
+.preamble {
+  background-color:#D0A9F5;
+  border-radius:5px  5px 0px  0px;
+}
+#zen-supporting {
+  border:2px dashed #8000FF;
+}
+.explanation {
+  padding:5px;
+  border-radius:5px;
+  background-color: #D0A9F5;
+  margin:5px;
+}
+.explanation h3{
+ text-align:center;
+  border-bottom:2px solid #8000FF;
+  letter-spacing: 2px;
+}
+.participation h3 {
+  text-align: center;
+  border-bottom: 2px solid #8000FF;
+  letter-spacing: 2px;
+}
+.benefits {
+   padding:5px;
+  border-radius:5px;
+  background-color: #D0A9F5;
+  margin:5px; 
+}
+.benefits h3{
+ text-align:center;
+  border-bottom:2px solid #8000FF;
+  letter-spacing: 2px;
+}
+.requirements h3{
+ text-align:center;
+  border-bottom:2px solid #8000FF;
+  letter-spacing: 2px;
+}
+footer {
+   background-color: #D0A9F5;
+   text-align:center;
+   letter-spacing: 3px;
+   font-size: 8px;
+}
+/*sidebar*/
+.sidebar {
+  width: 50%;
+  padding-left:25%;
+  padding-right:25%;
+  border: 1px dotted #8000FF;
+}
+.sidebar li {
+  background-color: #BE81F7;
+  transition: all 0.5s ease;
+}
+.sidebar li:hover {
+  background-color: #BE81F7;
+  color:#8000FF;
+  transition: all 0.5s ease;
+}
+
+.sidebar li {
+  background-color: #BE81F7;
+  transition: all 0.5s ease;
+}
+
